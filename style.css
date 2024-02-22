@@ -1,0 +1,10 @@
+#container{
+    border: dotted 2px blue;
+    
+}
+p{
+    border: solid 2px red;
+    padding: 20px;
+    margin: 5%;
+
+}
